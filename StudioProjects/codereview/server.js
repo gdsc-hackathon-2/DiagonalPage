@@ -1,0 +1,1 @@
+app.use("/api/register", require("./routes/api/register"));
